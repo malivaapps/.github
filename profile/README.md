@@ -1,4 +1,4 @@
-![Maliva-Nofixlogo](https://github.com/malivaapps/welcome/assets/79435880/39f38327-27db-4188-9a16-f37017761717)
+![Maliva](https://github.com/malivaapps/.github/assets/79435880/8e562102-f1ec-4482-b64e-6796c39ada3c)
 
 # Maliva - C241-PS103 - Bangkit 2024
 
